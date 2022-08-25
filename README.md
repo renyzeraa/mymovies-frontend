@@ -6,9 +6,15 @@
 
 A ideia agora foi fazer o deploy da aplicação em React.js, nossa página web do My Movies.
 
+Veja como foi feito o projeto [**aqui**](https://github.com/renyzeraa/rocketseat-explorer/tree/main/Stage09/Challenge02/rocketmovies)
+
 Antes do Deploy do frontend foi colocar o backend no ar, e manter funcionando. Backend foi implantado no Heroku. Ja aqui o frontend, foi utilizado o Netlify.
 
-<a href="https://renyzeraa.github.io/rocketseat-explorer/Stage02/Challenge1" target="_blank" > <h1> **Deploy 🚀** </h1></a>
+<a href="https://my-movies-aplication.netlify.app/" target="_blank" > <h1> **Deploy 🚀** </h1></a>
+
+# Projeto Final 🤩
+
+![Screenshot_1](https://user-images.githubusercontent.com/101990719/186682555-d39a946f-49fd-4470-9dad-06d98fc7582b.png)
 
 ---
 
