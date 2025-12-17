@@ -10,8 +10,6 @@ Veja como foi feito o projeto [**aqui**](https://github.com/renyzeraa/rocketseat
 
 Antes do Deploy do frontend foi colocar o backend no ar, e manter funcionando. Backend foi implantado no Heroku. Ja aqui o frontend, foi utilizado o Netlify.
 
-<a href="https://my-movies-aplication.netlify.app/" target="_blank" > <h1> **Deploy 🚀** </h1></a>
-
 # Projeto Final 🤩
 
 ![Screenshot_1](https://user-images.githubusercontent.com/101990719/186682555-d39a946f-49fd-4470-9dad-06d98fc7582b.png)
